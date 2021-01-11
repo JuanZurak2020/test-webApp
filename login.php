@@ -35,7 +35,7 @@ if(!empty($_POST['name'])){
                 <input type="text" placeholder="12345678" class="text-center" disabled>
             </div>
             <div class="btn btn-block btn-outline-success" onClick="sendForm('form-login')">SAVE</div>
-            <a href="/test-web-d" class="btn btn-outline-secondary btn-block">BACK to MENU</a>
+            <a href="./test-web-d/index.php" class="btn btn-outline-secondary btn-block">BACK to MENU</a>
         </form>
     </div>
     <div class="col-md-3"></div>
